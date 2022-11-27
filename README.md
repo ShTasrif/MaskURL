@@ -1,4 +1,4 @@
-# MASKURL
+# MASK URL
 A simple url masking tool
 
 <h3 align="left">INSTALL :</h3>
@@ -6,7 +6,7 @@ A simple url masking tool
 ````bash
 pkg update && upgrade -y
 pkg install python -y
-git clone https://github.com/ShTasrif/maskurl
+git clone https://github.com/ShTasrif/MaskURL
 ````
 
 ## How to use 
@@ -14,7 +14,7 @@ git clone https://github.com/ShTasrif/maskurl
 #### Run :
 
 ````bash
-cd maskurl
+cd MaskURL
 python mask.py
 ````
 
