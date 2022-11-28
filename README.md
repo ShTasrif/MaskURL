@@ -27,5 +27,6 @@ python mask.py
 </div>
 
 # Screenshot:
-![ezgif-1-35c884a709](https://user-images.githubusercontent.com/85736436/204098295-61b69bc9-8e6b-470a-a6cd-785537a4b00f.gif)
 
+
+![ezgif-2-a2ad88eef2](https://user-images.githubusercontent.com/85736436/204270257-6fddd82f-d924-4ee4-9b76-097456004a6b.gif)
